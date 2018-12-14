@@ -4,7 +4,7 @@ Exemplo básico e aplicação com Modal
 
 > Demo
 
-* [JS Search](https://js-search.netlify.com/)
+* [JS TreeView](https://js-treeview.netlify.com/)
 
 > Screenshot
 
